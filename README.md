@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :)
 
 <!--
 **abanerjee1564/abanerjee1564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
